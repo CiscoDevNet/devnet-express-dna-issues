@@ -15,7 +15,9 @@ URL of the track: https://learninglabs.cisco.com/tracks/devnet-express-dna
 1. **Write** a decription.
     In about 50 words or less describe the issue. In addition, include any screenshots or snippets that will help the author know what you want corrected. If possible, include a snippet of the sentence or code lines that are wrong, and an example of what you think the correct sentence or code should be
 1. Select the severity of the issue from the **Labels**.
-  - Severity 1: broken. the lab or module is broken and cannot be completed 
-  - Severity 2: workarounds. the lab or module works but is very inconvenient or confusing
-  - Severity 3: minor error
+    - Severity 1: broken. the lab or module is broken and cannot be completed 
+    - Severity 2: workarounds. the lab or module works but is very inconvenient or confusing
+    - Severity 3: minor error
 1. Click **Submit new issue** button
+
+The DevNet content authors will review the issue, and indicate in the Issue when it is fixed or otherwise resolved.
