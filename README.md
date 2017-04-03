@@ -9,18 +9,13 @@ URL of the track: https://learninglabs.cisco.com/tracks/devnet-express-dna
 1. Click on **Issues** tab
 1. Click the **New Issue** button
 1. Fill in the title
-  **ISSUE TITLE:  provide the Lab-ID and short description of what's wrong**
   For example:   _Lab_ 00-prep-nn-sample-id contains _typos_
-  To find the Lab-ID, look at the URL of the lab. The lab-id appears to the left of the step number:
+  Provide the Lab-ID and a short description of what's wrong. To find the Lab-ID, look at the URL of the lab. The Lab-ID appears to the left of the step number:
   > https://learninglabs.cisco.com/tracks/devnet-express-dna /intro-python-programming-devnet-express **/00-prep-03-python-primer** /step/1
-  
 1. **Write** a decription
-  **ISSUE DESCRIPTION**
   In about 50 words or less describe the issue. In addition, include any screenshots or snippets that will help the author know what you want corrected. If possible, include a snippet of the sentence or code lines that are wrong, and an example of what you think the correct sentence or code should be
-1. Select the severity of the issue from the labels
-  **ISSUE LABELS**
-  Select **Labels** to indicate  the type of issue (bug, enhancement, etc.) and the severity of the issue.
-    - Severity 1: broken - the lab or module is broken and cannot be completed- 
+1. Select the severity of the issue from the **Labels**
+    - Severity 1: broken - the lab or module is broken and cannot be completed- 
     - Severity 2: workarounds - the lab or module works but is very inconvenient or confusing
     - Severity 3: minor error
 1. Click **Submit new issue** button
