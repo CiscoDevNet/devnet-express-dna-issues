@@ -1,5 +1,7 @@
 # devnet-express-dna-issues
 
+**IMPORTANT**:  This is a public repository. _Do not include proprietary or confidential information in this repository._
+
 Use this repo to submit defects, bugs, enhancement requests, and other issues related to the DevNet Express for DNA learning track.
 
 URL of the track: https://learninglabs.cisco.com/tracks/devnet-express-dna
