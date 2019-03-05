@@ -4,7 +4,7 @@
 
 Use this repo to submit defects, bugs, enhancement requests, and other issues related to the DevNet Express for DNA learning track.
 
-URL of the track: https://learninglabs.cisco.com/tracks/devnet-express-dna
+URL of the track: https://developer.cisco.com/learning/tracks/devnet-express-dna
 
 **To submit an issue:**
 
@@ -13,7 +13,7 @@ URL of the track: https://learninglabs.cisco.com/tracks/devnet-express-dna
 1. Fill in the title.
 
     - Provide the Lab-ID and a short description of what's wrong. 
-    - To find the Lab-ID, look at the URL of the lab. The Lab-ID appears to the left of the step number: https://learninglabs.cisco.com/tracks/devnet-express-dna/intro-python-programming-devnet-express **/00-prep-03-python-primer** /step/1
+    - To find the Lab-ID, look at the URL of the lab. The Lab-ID appears to the left of the step number: https://developer.cisco.com/learning/tracks/devnet-express-dna/intro-python-programming-devnet-express **/00-prep-03-python-primer** /step/1
 1. **Write** a decription.
 
     In about 50 words or less describe the issue. In addition, include any screenshots or snippets that will help the author know what you want corrected. If possible, include a snippet of the sentence or code lines that are wrong, and an example of what you think the correct sentence or code should be
